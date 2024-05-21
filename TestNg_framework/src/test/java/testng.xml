@@ -1,0 +1,13 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Testng Practice Suite">
+  <test name="Features of Testng Basics 1">
+      <classes>
+      	 <class name="testNG.Invocationcount"/>
+     	 <class name="testNG.TestCasesDemo"/>
+     	 <class name="testNG.TestngFeatures"/>
+      </classes>
+  </test>    
+  
+</suite> <!-- Suite -->
